@@ -1,0 +1,35 @@
+body {
+  /* font-family: 'Open Sans', sans-serif;
+  padding-top: 60px; */
+  background: #f4f4f4;
+  font-size: 15px;
+}
+
+a {
+  color: #5c5b69;
+}
+
+hr {
+  /* margin:10px 0 15px 0; */
+}
+
+.block {
+  background: #fff;
+  border-radius: 5px;
+  /* padding: 15px 20px; */
+  margin-bottom: 20px;
+}
+
+/* #topicBox {
+  transition: box-shadow 0.3s;
+  width: 300px;
+  height: 500px;
+  margin: 50px;
+  border-radius: 10px;
+  border: 1px solid #ccc;
+  background: #fff;
+  float: left;
+}
+#topicBox:hover {
+  box-shadow: 0 0 11px rgba(33, 33, 33, 0.2);
+} */
