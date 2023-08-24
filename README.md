@@ -8,12 +8,12 @@
 
 <p id="description">Introducing our comprehensive Forum Website – a dynamic platform for fostering meaningful discussions. Users can effortlessly create, edit, and reply to posts, categorized for easy navigation. Embracing collaborative engagement, multiple users enrich discussions, adding depth to each post's discourse. The owner of a post and its replies enjoy the freedom to edit their contributions, enhancing the conversational flow. The admin panel empowers administrators with robust oversight, ensuring smooth functioning. This project amalgamates interactive communication, user empowerment, and efficient administration, creating a rich ecosystem for insightful exchanges. </p>
 
-<!-- <h2> Demo</h2>
+<h2> Demo</h2>
 
 
-[https://www.youtube.com/watch?v=9\_pd3rIbLUc](https://www.youtube.com/watch?v=9_pd3rIbLUc)
+[https://www.youtube.com/watch?v=ZkN859TSfhA](https://www.youtube.com/watch?v=ZkN859TSfhA)
 
-[<img align="center" src="assets/thumb.png" width="40%">](https://www.youtube.com/watch?v=9_pd3rIbLUc "watch the project") -->
+[<img align="center" src="img/Live link.png" width="">](https://www.youtube.com/watch?v=ZkN859TSfhA "watch the project")
 
 
 
